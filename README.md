@@ -11,6 +11,15 @@
     <li>
         <a href="https://opencv.org/" >OpenCV</a>
     </li>
+    <li>
+        <a href="https://gpiozero.readthedocs.io/" >gpiozero</a>
+    </li>
+    <li>
+        <a href="https://pypi.org/project/RPi.GPIO/" >RPi.GPIO</a>
+    </li>
+    <li>
+        <a href="https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/python-setup/" >Adafruit_DHT</a>
+    </li>
 </ul>
 
 To run the server
